@@ -1,6 +1,6 @@
 # Maze-Solver-Arduino
 
-##Contains
+## Contains
 • Wall maze solver - Right Hand Rule.<br>
 • Wall maze solver - Left Hand Rule.<br>
 • Line Maze solver - Right Hand Rule.<br>
