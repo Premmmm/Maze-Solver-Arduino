@@ -1,6 +1,6 @@
 # Maze-Solver-Arduino
 
-## Contains
+## Contents
 • Wall maze solver - Right Hand Rule ( RHR ).<br>
 • Wall maze solver - Left Hand Rule ( LHR ).<br>
 • Line Maze solver - Right Hand Rule ( RHR ).<br>
